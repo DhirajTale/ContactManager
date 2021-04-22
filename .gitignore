@@ -13,3 +13,8 @@
 /ContactMangerEvolent/ContactMangerEvolent/bin
 /ContactMangerEvolent/ContactMangerEvolent/fonts
 /ContactMangerEvolent/ContactMangerEvolent/obj
+*.dll
+*.pdb
+*.exe
+/Resources/Published web Api/ContactManagerAPI/ContactManagerAPI.runtimeconfig.json
+/Resources/Published web Api/ContactManagerAPI/ContactManagerAPI.deps.json
