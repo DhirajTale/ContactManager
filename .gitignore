@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ContactMangerEvolent/ContactManagerAPI/bin
+/.vs
+/ContactMangerEvolent/.vs/ContactMangerEvolent
+/ContactMangerEvolent/packages
+/ContactMangerEvolent/Publish/ContactManagerAPI
+/ContactMangerEvolent/ContactManagerAPI/obj
+/ContactMangerEvolent/ContactManagerEvolentTest/obj
+/ContactMangerEvolent/ContactManagerEvolentTest/bin/Debug
+/ContactMangerEvolent/ContactMangerEvolent/bin
+/ContactMangerEvolent/ContactMangerEvolent/fonts
+/ContactMangerEvolent/ContactMangerEvolent/obj
